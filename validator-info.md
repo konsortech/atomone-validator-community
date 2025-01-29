@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| KonsorTech | https://konsortech.xyz  | https://x.com/Konsor_Tech  | Indonesia  | https://github.com/konsortech  | validator@konsortech.xyz  | konsortech  | 2D33200507542A80D6E3D64E85E7C26EF452E741D299931FD7BB016DA8B4DB64  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
